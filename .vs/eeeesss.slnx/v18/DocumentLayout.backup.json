@@ -1,12 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1D0A89-B6AB-4C1B-AB06-80907E19E745}|eeeesss\\eeeesss.vcxproj|C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\eeeesss\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D1D0A89-B6AB-4C1B-AB06-80907E19E745}|eeeesss\\eeeesss.vcxproj|solutionrelative:eeeesss\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1D0A89-B6AB-4C1B-AB06-80907E19E745}|eeeesss\\eeeesss.vcxproj|C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\eeeesss\\\u6807\u5934.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D1D0A89-B6AB-4C1B-AB06-80907E19E745}|eeeesss\\eeeesss.vcxproj|solutionrelative:eeeesss\\\u6807\u5934.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\eeeesss\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "eeeesss\\\u6E90.cpp",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\eeeesss\\\u6E90.cpp",
+              "RelativeToolTip": "eeeesss\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T14:53:50.753Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6807\u5934.h",
+              "DocumentMoniker": "C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\eeeesss\\\u6807\u5934.h",
+              "RelativeDocumentMoniker": "eeeesss\\\u6807\u5934.h",
+              "ToolTip": "C:\\Users\\AS\\Documents\\GitHub\\eeeeeee\\eeeesss\\\u6807\u5934.h",
+              "RelativeToolTip": "eeeesss\\\u6807\u5934.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-18T14:53:44.427Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
