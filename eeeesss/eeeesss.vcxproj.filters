@@ -15,15 +15,36 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Pokemon.h">
+    <ClInclude Include="Interactable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NomaiTextLine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NomaiText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileSerializer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DemoSupport.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pokemon.cpp">
+    <ClCompile Include="FileSerializer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NomaiText.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DemoSupport.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

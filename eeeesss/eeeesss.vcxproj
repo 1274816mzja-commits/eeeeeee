@@ -19,11 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Pokemon.h" />
+    <ClInclude Include="DemoSupport.h" />
+    <ClInclude Include="FileSerializer.h" />
+    <ClInclude Include="Interactable.h" />
+    <ClInclude Include="NomaiText.h" />
+    <ClInclude Include="NomaiTextLine.h" />
+    <ClInclude Include="Text.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DemoSupport.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Pokemon.cpp" />
+    <ClCompile Include="NomaiText.cpp" />
+    <ClCompile Include="FileSerializer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
